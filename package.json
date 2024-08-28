@@ -1,0 +1,18 @@
+{
+  "name": "cra-template-dhre-web-boilerplate",
+  "version": "0.0.5",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "The boilerplate for web applications.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
